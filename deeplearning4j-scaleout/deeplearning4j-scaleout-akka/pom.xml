@@ -33,7 +33,7 @@
 		<hazelcast.version>3.4.2</hazelcast.version>
 		<spring.version>3.2.5.RELEASE</spring.version>
 		<dropwizard.version>0.8.0</dropwizard.version>
-		<jackson.version>2.5.1</jackson.version>
+		<jackson.version>2.12.1</jackson.version>
 		<scala.binary.version>2.10</scala.binary.version>
 		<akka.group>org.spark-project.akka</akka.group>
 	</properties>
